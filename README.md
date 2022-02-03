@@ -1,0 +1,2 @@
+# Simwama
+Proyecto de angular

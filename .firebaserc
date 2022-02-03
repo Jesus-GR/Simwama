@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "simwama-aab03": {
+      "hosting": {
+        "simwama": [
+          "simwama-aab03"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "simwama-aab03"
+  }
+}
